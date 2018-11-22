@@ -5,7 +5,7 @@
     {
       "identifier": "1",
       "name": "Citlalic Meme Pack 1",
-      "publisher": "Angel Rodriguez",
+      "publisher": "Citlalic",
       "tray_image_file": "s26.webp",
       "publisher_email":"",
       "publisher_website": "",
@@ -89,6 +89,138 @@
         },
         {
           "image_file": "s26.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Animals",
+      "publisher": "Carmen",
+      "tray_image_file": "An_1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "An_1.webp"
+        },
+        {
+          "image_file": "An_2.webp"
+        },
+        {
+          "image_file": "An_3.webp"
+        },
+        {
+          "image_file": "An_4.webp"
+        },
+        {
+          "image_file": "An_5.webp"
+        },
+        {
+          "image_file": "An_6.webp"
+        },
+        {
+          "image_file": "An_7.webp"
+        },
+        {
+          "image_file": "An_8.webp"
+        },
+        {
+          "image_file": "An_9.webp"
+        },
+        {
+          "image_file": "An_10.webp"
+        },
+        {
+          "image_file": "An_11.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Bob Sponja",
+      "publisher": "Carmen",
+      "tray_image_file": "Bob_1.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Bob_1.webp"
+        },
+        {
+          "image_file": "Bob_2.webp"
+        },
+        {
+          "image_file": "Don Cangrejo_1.webp"
+        },
+        {
+          "image_file": "Patricio_1.webp"
+        },
+        {
+          "image_file": "Patricio_2.webp"
+        },
+        {
+          "image_file": "Patricio_3.webp"
+        },
+        {
+          "image_file": "Patricio_4.webp"
+        },
+        {
+          "image_file": "Patricio_5.webp"
+        },
+        {
+          "image_file": "Patricio_6.webp"
+        },
+        {
+          "image_file": "Patricio_7.webp"
+        },
+        {
+          "image_file": "Patricio_8.webp"
+        },
+        {
+          "image_file": "Patricio_9.webp"
+        },
+        {
+          "image_file": "Patricio_10.webp"
+        },
+        {
+          "image_file": "Personaje_1.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Nigros",
+      "publisher": "Carmen",
+      "tray_image_file": "Nigro_1.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "Nigro_1.webp"
+        },
+        {
+          "image_file": "Nigro_2.webp"
+        },
+        {
+          "image_file": "Nigro_3.webp"
+        },
+        {
+          "image_file": "Nigro_4.webp"
+        },
+        {
+          "image_file": "Nigro_5.webp"
+        },
+        {
+          "image_file": "Nigro_6.webp"
+        },
+        {
+          "image_file": "Nigro_7.webp"
         }
       ]
     }
